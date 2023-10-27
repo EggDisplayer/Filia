@@ -35,7 +35,7 @@ const defaultMenu = {
 
 Don't forget to register yourself in the vynaa *database* so that vynaa can remember you as long as vynaa remains active.
 
-╭─ •  *「 VynaaMD 」*
+╭─ •  *「 🍔FILIA✨ 」*
 │  ◦  Uptime : %uptime
 │  ◦  Database : %rtotalreg dari %totalreg 
 │  ◦  Users : 5087
@@ -44,7 +44,7 @@ Don't forget to register yourself in the vynaa *database* so that vynaa can reme
   header: '╭─ •  *「 %category 」*',
   body: '│ ◦   %cmd %islimit %isPremium',
   footer: '╰──── • ',
-  after: `ᴠʏɴᴀᴀ ʙᴏᴛ ᴡʜᴀᴛꜱᴀᴘᴘ / *ᴘᴜʙʟɪᴄ ᴍᴏᴅᴇ*`,
+  after: `Filia Bot Whatsapp / *ᴘᴜʙʟɪᴄ ᴍᴏᴅᴇ*`,
 }
 let handler = async (m, { conn, usedPrefix: _p }) => {
   try {
@@ -147,7 +147,7 @@ text: text,
 contextInfo: {
 externalAdReply: {
 title: date,
-body: 'VynaaMD 🦄',
+body: '🍔Filia✨',
 thumbnailUrl: "https://youtube.com/@VynaaChan",
 sourceUrl: "https://instagram.com/_xwby_?igshid=ZDc4ODBmNjlmNQ==",
 mediaType: 1,
