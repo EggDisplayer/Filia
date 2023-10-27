@@ -45,8 +45,8 @@ let handler = async (m, {
 	conn.reply(m.chat, mainmenu, m, {
 		contextInfo: {
 			externalAdReply: {
-				title: `VynaaMD 🦄`,
-				body: "Hi, welcome to Vynaa Bot Whatsapp",
+				title: `🍔Filia✨`,
+				body: "Hi, welcome to Filia Bot Whatsapp. What cn i do for you?",
 				thumbnailUrl: thumbnailUrl,
 				sourceUrl: sourceUrl,
 				mediaType: 1,
