@@ -1,16 +1,16 @@
 
-global.owner = ['6282389924037']  
-global.mods = ['6282389924037'] 
-global.prems = ['6282389924037']
+global.owner = ['628975626924', '62895359831246']  
+global.mods = ['628975626924'] 
+global.prems = ['628975626924']
 
 global.nameowner = 'Ytb Vynα Vαlerié.'
-global.numberowner = '6282389924037' 
-global.mail = 'vynaachan@gmail.com'
-global.dana = '6282389924037'
-global.pulsa = '6282389924037'
-global.gopay = '6282389924037'
+global.numberowner = '628975626924' 
+global.mail = 'reyhanluthers@gmail.com'
+global.dana = '62895359831246'
+global.pulsa = '62895359831246'
+global.gopay = '62895359831246'
 
-global.namebot = 'VynaaMD🦄'
+global.namebot = '🍔Filia✨'
 global.gc = 'https://chat.whatsapp.com/CMK56xUxfTgAXGZjsZBmwf'
 global.web = 'https://shoplinks.to/vyna-store'
 global.instagram = 'https://instagram.com/_xwby_?igshid=ZDc4ODBmNjlmNQ=='
@@ -19,11 +19,11 @@ global.lolkey = 'ayakaviki'
 global.rose = 'Rs-lojembot';
 global.zenzkey = 'BagasPrdn'
 global.btc = 'Admin'
-global.wm = 'VynaaMD🦄'
+global.wm = '🍔Filia✨'
 global.watermark = wm
-global.wm2 = 'Ytb Vynα Vαlerié.'
-global.wm3 = 'VynaaMD'
-global.wm4 = 'Ytb Vynα Vαlerié.'
+global.wm2 = 'SenR.'
+global.wm3 = 'Filia'
+global.wm4 = '🍔Filia✨'
 global.fla = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text='
 global.wait = '*Loading...*'
 global.eror = 'Server Error'
@@ -33,8 +33,8 @@ global.salah = 'Salah\n'
 global.sourceUrl = "https://vynaachan.me"
 
 global.stiker_wait = 'bentar beib..'
-global.packname = '❏ sticker di buat oleh VynaaMD, wa.me/6283896757978❀▀▄🌺🌸'
-global.author = 'Ytb Vynα Vαlerié.\n'
+global.packname = '❏ Filian ✨'
+global.author = 'SenR🤖.\n'
 
 global.APIs = { 
   // name: 'https://website'
