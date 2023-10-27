@@ -3,7 +3,7 @@ global.owner = ['628975626924', '62895359831246']
 global.mods = ['628975626924'] 
 global.prems = ['628975626924']
 
-global.nameowner = 'Ytb Vynα Vαlerié.'
+global.nameowner = 'SenR.'
 global.numberowner = '628975626924' 
 global.mail = 'reyhanluthers@gmail.com'
 global.dana = '62895359831246'
