@@ -39,22 +39,14 @@ global.author = 'SenR🤖.\n'
 global.APIs = { 
   // name: 'https://website'
   xteam: 'https://api.xteam.xyz',
-  dzx: 'https://api.dhamzxploit.my.id',
-  zeks: 'https://api.zeks.xyz',
-  zekais: 'http://zekais.com',
   lolhuman: 'https://api.lolhuman.xyz',
   tio: 'https://api.botcahx.live',
-  popcat: 'https://api.popcat.xyz',
-  rey: 'https://sekha.me'
 }
 global.APIKeys = { // Tambahkan Apikey nya disini
 
-  'https://sekha.me': 'apirey',
   'https://api.xteam.xyz': 'd37372311698ed1d',
-  'https://pencarikode.xyz': 'pais', 
-  'https://zekais.com': 'apikeymu',
-  'https://api.botcahx.live': 'QaepQXxR',
-  'https://api.lolhuman.xyz': 'ayakaviki',
+  'https://api.botcahx.live': 'JHn9r8uH',
+  'https://api.lolhuman.xyz': 'c8c8de151e958e4666d16df9',
 }
 
 /*Yang Ini Untuk Setting Rpg Game Yah Kak*/
